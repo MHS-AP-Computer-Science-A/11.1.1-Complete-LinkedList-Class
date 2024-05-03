@@ -8,7 +8,7 @@ public class Main {
 		list1.add(5); // put a 5 in the list
 		list1.add(-10); // put a -10 in the list
 
-		// 
+		// 1. Complete the toString method so that list1 prints correctly
 		System.out.println(list1); // [3, 5, -10]
 
 		/* 2. Test the set method */
